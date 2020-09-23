@@ -1,5 +1,0 @@
-C:\Users\jorda\source\repos\checkin\checkin\bin\Release\checkin.exe
-C:\Users\jorda\source\repos\checkin\checkin\bin\Release\checkin.pdb
-C:\Users\jorda\source\repos\checkin\checkin\obj\Release\checkin.csprojAssemblyReference.cache
-C:\Users\jorda\source\repos\checkin\checkin\obj\Release\checkin.exe
-C:\Users\jorda\source\repos\checkin\checkin\obj\Release\checkin.pdb
